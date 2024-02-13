@@ -1,0 +1,6 @@
+/a/*    https://idyllic-dango-0dfb3a.netlify.app/destination-a    301
+/b/*    https://idyllic-dango-0dfb3a.netlify.app/destination-b    301
+/c/*    https://idyllic-dango-0dfb3a.netlify.app/destination-c    301
+/d/*    https://idyllic-dango-0dfb3a.netlify.app/destination-d    301
+# Add more rules for other alphabets as needed
+/*      /404.html    404
